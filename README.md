@@ -1,6 +1,6 @@
 <h2>Hi, I'm Arturo 👋👨‍💻</h2>
 <p align="center">
-<i>I am a software engineer with +5 years of experience. <br><br>Very passionate about technology. Happy to take part of innovative and challenging software projects & products.</i>
+<i>I am a software engineer with +7 years of experience. <br><br>Very passionate about technology. Happy to take part of innovative and challenging software projects & products.</i>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=caghp94&color=brightgreen&label=visitors" alt="visitors">
